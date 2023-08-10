@@ -37,7 +37,7 @@ Follow the below table to connect the EPD display with the Raspberry Pi:
 * Change directory: `cd Ukufika-0.0`.
 * Execute the script: `./installer.run`.
 * Follow the on-screen instructions to install _**Ukufika**_.
-* Ensure to update `.env` file with the API token and `resource/data.json` file with the bus stop and bus service number configuration. 
+* Ensure to update `.env` file with the API token and `data/bus_data.json` file with the bus stop and bus service number configuration. 
 * Once the installation is completed, restart the Raspberry Pi. If you have enabled the start-up on boot, Ukufika will be started automatically.
 
 ## Support ##
